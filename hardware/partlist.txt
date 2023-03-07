@@ -1,0 +1,59 @@
+Partlist
+
+Exported from Main_Board.sch at 6/27/2021 6:11:27 AM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value                    Device                   Package      Library               Sheet
+
+*C1       100nF                    C-EU025-025X050          C025-025X050 rcl                   1
+*C2       100nF                    C-EU025-025X050          C025-025X050 rcl                   1
+*C6       100nF                    C-EU025-025X050          C025-025X050 rcl                   1
+*C4       100nF                    C-EU025-025X050          C025-025X050 rcl                   1
+*C8       100nF                    C-EU025-025X050          C025-025X050 rcl                   1
+*C5       1uF                      CPOL-EUE1.8-4            E1,8-4       rcl                   1
+*C7       1uF                      CPOL-EUE1.8-4            E1,8-4       rcl                   1
+*C3       1uF                      CPOL-EUE1.8-4            E1,8-4       rcl                   1
+*C9       1uF                      CPOL-EUE1.8-4            E1,8-4       rcl                   1
+//DIS1     LTP-3784                 LTP-3784                 LTP-3784     liteon               3
+//DIS2     LTP-3784                 LTP-3784                 LTP-3784     liteon               3
+//DIS3     LTP-3784                 LTP-3784                 LTP-3784     liteon               3
+//DIS4     LTP-3784                 LTP-3784                 LTP-3784     liteon               3
+*IC1                               DIL18                    DIL18        ic-package            2
+cuplet de 8 canale darlington cu capabilitate de sourceing
+https://ro.farnell.com/micrel-semiconductor/mic2981-82yn/source-driver-array-8-channel/dp/1311028?st=source%20drivers
+BB**IC4      MCU                      DIL40                    DIL40        ic-package         1
+//IC5      LD117AS33TR              LD117AS33TR              SOT223       v-reg                1
+//IC6      LSD                      DIL18                    DIL18        ic-package           2
+//IC7      LSD                      DIL18                    DIL18        ic-package           2
+*JP1                               PINHD-2X15               2X15         pinhead               1
+*JP2                               PINHD-2X15               2X15         pinhead               1
+*JP3                               PINHD-2X15               2X15         pinhead               2
+*JP4                               PINHD-2X15               2X15         pinhead               2
+*JP5                               PINHD-2X16               2X16         pinhead               2
+*JP6                               PINHD-2X8                2X08         pinhead               2
+*JP7                               PINHD-2X8                2X08         pinhead               3
+*JP8                               PINHD-2X16               2X16         pinhead               3
+*JP10     ICSP                     PINHD-1X8                1X08         pinhead               1
+*JP11                              PINHD-2X4                2X04         pinhead               1
+*JP12                              PINHD-2X3                2X03         pinhead               1
+//R1                                R-EU_R0805               R0805        rcl                  2
+//R2                                R-EU_R0805               R0805        rcl                  2
+//R3                                R-EU_R0805               R0805        rcl                  2
+//R4                                R-EU_R0805               R0805        rcl                  2
+//R5                                R-EU_R0805               R0805        rcl                  2
+//R6                                R-EU_R0805               R0805        rcl                  2
+//R7                                R-EU_R0805               R0805        rcl                  2
+//R8                                R-EU_R0805               R0805        rcl                  2
+//R9                                R-EU_R0805               R0805        rcl                  2
+//R10                               R-EU_R0805               R0805        rcl                  2
+//R11                               R-EU_R0805               R0805        rcl                  2
+//R12                               R-EU_R0805               R0805        rcl                  2
+//R13                               R-EU_R0805               R0805        rcl                  2
+//R14                               R-EU_R0805               R0805        rcl                  2
+//R15                               R-EU_R0805               R0805        rcl                  2
+*R16      10K                      R-EU_0207/10             0207/10      rcl                   1
+*S5       RESET                    10-XX                    B3F-10XX     switch-omron          1
+//X1       MINI-USB_4P-85-32004-10X MINI-USB_4P-85-32004-10X 85-32004-10X con-cypressindustries 1
